@@ -1,0 +1,2 @@
+/api/*  http://localhost:5000/:splat  200
+/generate-image  http://localhost:5000/generate-image  200
